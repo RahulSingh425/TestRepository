@@ -1,3 +1,3 @@
 # TestRepository
 Test repository for WANIC VGP
-Hello
+Hello 2.0
